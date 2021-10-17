@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "OOP\OOP.csproj", "{F9A5D107-1BD3-4529-8D3D-3468BE139515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicControl", "BasicControl\BasicControl.csproj", "{7A2B2BFC-DE98-4C89-91E5-7C68410E0171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap", "BaiTap\BaiTap.csproj", "{C78EBC81-C14C-42B3-AC45-85115F89BA8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9A5D107-1BD3-4529-8D3D-3468BE139515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A5D107-1BD3-4529-8D3D-3468BE139515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A5D107-1BD3-4529-8D3D-3468BE139515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A5D107-1BD3-4529-8D3D-3468BE139515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2B2BFC-DE98-4C89-91E5-7C68410E0171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2B2BFC-DE98-4C89-91E5-7C68410E0171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2B2BFC-DE98-4C89-91E5-7C68410E0171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2B2BFC-DE98-4C89-91E5-7C68410E0171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78EBC81-C14C-42B3-AC45-85115F89BA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78EBC81-C14C-42B3-AC45-85115F89BA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78EBC81-C14C-42B3-AC45-85115F89BA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78EBC81-C14C-42B3-AC45-85115F89BA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8D269C4-55BE-4FF1-9EBB-C7E0E662E49A}
+	EndGlobalSection
+EndGlobal
